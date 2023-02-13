@@ -165,6 +165,7 @@ nav ul li a:hover {
 .price-sec img{
   width: 296px;
   height: 355px;
+  cursor: pointer;
 }
 .price-sec img{
   transition: 0.5s all ease-in-out;  
